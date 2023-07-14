@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**hhheeeeee/hhheeeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hhheeeeee%20github&fontSize=80)
 
 Here are some ideas to get you started:
 
@@ -14,3 +11,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![hhheeeeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhheeeeee&show_icons=true&theme=buefy)
+
+
+
+
+## 📞 contact
+![Static Badge](https://img.shields.io/badge/build-hhheeeeee-brightgreen?style=flat-square&logo=instagram&logoColor=%23ffffff&label=instagram&labelColor=%23E4405F&color=%23E4405F&link=https%3A%2F%2Fwww.instagram.com%2Fhhheeeeee__%2F)
+
+
